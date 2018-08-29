@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>III Pepper Demo</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="viewport" content="initial-scale = 1.333,minimum-scale = 1.333,maximum-scale = 1.333" />
+		<style>
+			body, html {
+				height: 100%;
+				margin: 0;
+			}
+
+			.bg {
+				/* The image used */
+				background-image: url("zoo_pepper_tinted.jpg");
+
+				/* Full height */
+				height: 100%; 
+
+				/* Center and scale the image nicely */
+				background-position: center;
+				background-repeat: no-repeat;
+				background-size: cover;
+			}
+			.flex-container {
+                height: 100%;
+                padding: 0;
+                margin: 0;
+                display: -webkit-box;
+                display: -moz-box;
+                display: -ms-flexbox;
+                display: -webkit-flex;
+                display: flex;
+                /*align-items: center;*/
+				margin-top: 10%;
+                justify-content: center;
+				
+            }
+            .row {
+                width: auto;
+                margin: auto 30px;
+                border: 2px solid #ccc;
+                border-radius: 15px;
+                background: #fff;
+				opacity: 0.8;
+            }
+            .flex-item {
+                padding: 5px;
+                margin: 15px;
+                line-height: 50px;
+                color: rgb(34, 33, 33);
+                font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+                font-size: 3em;
+                text-align: left;
+            }
+			span#typed {
+				
+				opacity: 1;
+			}
+		</style>
+		<script src="/libs/qimessaging/2/qimessaging.js"></script>
+        <script src="typed.min.js"></script>
+        <script src="script.js"></script>
+	</head>
+
+	<body class="bg">
+	
+		<div class="flex-container">
+            <div class="row"> 
+                <div class="flex-item">
+                    
+                    <span id="typed"></span>
+
+                </div>
+            </div>
+        </div>
+	</body>
+</html>
