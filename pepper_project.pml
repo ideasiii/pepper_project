@@ -104,6 +104,28 @@
         <File name="zoo_pepper" src="html/zoo_pepper.png" />
         <File name="zoo_pepper_tinted" src="html/zoo_pepper_tinted.jpg" />
         <File name="zoo_pepper_tinted" src="html/zoo_pepper_tinted.png" />
+        <File name="pepper_project-759d0e-0.0.21" src="pepper_project-759d0e-0.0.21.pkg" />
+        <File name="__init__" src="pepper_sdk/iii/__init__.py" />
+        <File name="__init__.cpython-36" src="pepper_sdk/iii/__pycache__/__init__.cpython-36.pyc" />
+        <File name="__init__" src="pepper_sdk/iii/dsi/__init__.py" />
+        <File name="__init__.cpython-36" src="pepper_sdk/iii/dsi/__pycache__/__init__.cpython-36.pyc" />
+        <File name="__init__" src="pepper_sdk/iii/dsi/more/__init__.py" />
+        <File name="__init__.cpython-36" src="pepper_sdk/iii/dsi/more/__pycache__/__init__.cpython-36.pyc" />
+        <File name="__init__" src="pepper_sdk/iii/dsi/more/semantic/__init__.py" />
+        <File name="__init__.cpython-36" src="pepper_sdk/iii/dsi/more/semantic/__pycache__/__init__.cpython-36.pyc" />
+        <File name="semantic_word.cpython-36" src="pepper_sdk/iii/dsi/more/semantic/__pycache__/semantic_word.cpython-36.pyc" />
+        <File name="semantic_word" src="pepper_sdk/iii/dsi/more/semantic/semantic_word.py" />
+        <File name="__init__" src="pepper_sdk/iii/dsi/more/socket/__init__.py" />
+        <File name="__init__.cpython-36" src="pepper_sdk/iii/dsi/more/socket/__pycache__/__init__.cpython-36.pyc" />
+        <File name="socket_module.cpython-36" src="pepper_sdk/iii/dsi/more/socket/__pycache__/socket_module.cpython-36.pyc" />
+        <File name="socket_module" src="pepper_sdk/iii/dsi/more/socket/socket_module.py" />
+        <File name="__init__" src="pepper_sdk/iii/dsi/more/thread/__init__.py" />
+        <File name="__init__.cpython-36" src="pepper_sdk/iii/dsi/more/thread/__pycache__/__init__.cpython-36.pyc" />
+        <File name="thread_moudle.cpython-36" src="pepper_sdk/iii/dsi/more/thread/__pycache__/thread_moudle.cpython-36.pyc" />
+        <File name="thread_moudle" src="pepper_sdk/iii/dsi/more/thread/thread_moudle.py" />
+        <File name="iii_more_pepper" src="pepper_sdk/iii_more_pepper.cbl" />
+        <File name="storyModule" src="pepper_sdk/storyModule.cbl" />
+        <File name="Pepper文件" src="Pepper文件.docx" />
     </Resources>
     <Topics>
         <Topic name="ExampleDialog_enu" src="ExampleDialog/ExampleDialog_enu.top" topicName="ExampleDialog" language="en_US" />
